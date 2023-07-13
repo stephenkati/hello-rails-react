@@ -96,7 +96,7 @@ To run the project, execute the following command:
 ```
 
 ```
-  ./bin/dev
+  rails s
 ```
 
 ### Run tests
